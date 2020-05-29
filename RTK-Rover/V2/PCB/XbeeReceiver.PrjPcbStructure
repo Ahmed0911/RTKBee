@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Main.SchDoc
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_PowerSupply|SchDesignator=U_PowerSupply|FileName=PowerSupply.SchDoc|SymbolType=Normal|RawFileName=PowerSupply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_RSSI|SchDesignator=U_RSSI|FileName=RSSI.SchDoc|SymbolType=Normal|RawFileName=RSSI.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_XbeeModule|SchDesignator=U_XbeeModule|FileName=XbeeModule.SchDoc|SymbolType=Normal|RawFileName=XbeeModule.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
